@@ -1,2 +1,1 @@
-#github "hamcrest/OCHamcrest" ~> 8.0
-git "file:///Users/mariusvarian/Documents/work/Cobi/libraries_repos/OCHamcrest" "update-for-Xcode-14"
+github "mariusvarian/OCHamcrest" "update-for-Xcode-14"
