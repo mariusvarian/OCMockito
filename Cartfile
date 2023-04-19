@@ -1,1 +1,2 @@
-github "mariusvarian/OCHamcrest" "update-for-Xcode-14"
+#github "mariusvarian/OCHamcrest" "update-for-Xcode-14"
+github "hamcrest/OCHamcrest" ~> 9.0
